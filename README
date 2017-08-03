@@ -1,0 +1,1 @@
+Script to classify  MNIST with bayesian weights. Implementation via pytorch on the master's GPU.
